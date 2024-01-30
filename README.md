@@ -1,10 +1,9 @@
-#Redes Neuronales
-Este es el repositorio de mis avances en las redes neuronales.
-Hay tres carpetas distintas, cada una tiene una red distinta:
+<h1>Neural Networks</h1>
 
-- La carpeta "colores" contiene una red neuronal que te dice si un color es claro u oscuro. 
-   Ejemplo: ("R":0.25, "G":1, "B":0.55) Cada numero se multiplica por 255 para que nos de nuestro valor del color. Este caso es el color:("red": 64, "green":255, "blue":140).
+This is the repository of my progress in neural networks. There are three different folders, each containing a different neural network:
 
-- La carpeta "discos duros" contiene una red neuronal que te dice si un disco duro es caro, barato o tiene un buen precio. Para ello tienes que darle ciertas caracteristicas del     disco duro y la red te dira su la información. Dentro del propio fichero "script-precios" pone una medida de como funcionan los valores.
+The "colores" folder contains a neural network that determines whether a color is light or dark. For example: ("R": 0.25, "G": 1, "B": 0.55) Each number is multiplied by 255 to obtain the color value. In this case, the color is ("red": 64, "green": 255, "blue": 140).
 
-- La carpeta "tensorflow" todavia no hay nada hecho todavia. En esta carpeta iré guardando mis primeros pasos con la biblioteca de tensorflow.
+The "discos duros" folder contains a neural network that classifies a hard drive as expensive, cheap, or reasonably priced. To achieve this, you need to provide certain characteristics of the hard drive, and the network will provide the information. Inside the "script-precios" file, there is a guide on how the values work.
+
+The "tensorflow" folder currently has nothing implemented. In this folder, I will be documenting my initial steps with the TensorFlow library.
