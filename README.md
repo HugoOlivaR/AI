@@ -1,4 +1,4 @@
-<h1>Neural Networks</h1>
+<h1>Neural Networks</h1> <date>16/09/2021</date>
 
 This is the repository of my progress in neural networks. There are three different folders, each containing a different neural network:
 
